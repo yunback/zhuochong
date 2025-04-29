@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "name": "微信",
+            "path": "D:/Desktop/3/微信.lnk",
+            "category": "1",
+            "is_script": false
+        },
+        {
+            "name": "cat",
+            "path": "D:/Desktop/2.4/cat.py",
+            "category": "1",
+            "is_script": true
+        },
+        {
+            "name": "Cities.exe - 快捷方式",
+            "path": "D:/Desktop/2/Cities.exe - 快捷方式.lnk",
+            "category": "2",
+            "is_script": false
+        }
+    ]
+}
