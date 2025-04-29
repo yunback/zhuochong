@@ -14,4 +14,4 @@
 * 运行cat.py
 * 在talk.txt更改你想要的随机问候语
 * 在pikaqiu文件夹更改gif文件，不过只有几个动作
-* 
+* 演示https://t.bilibili.com/1061170583632347144?share_source=pc_native
