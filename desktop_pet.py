@@ -44,7 +44,9 @@ class DesktopPet(QWidget):
         self.state = PetState.IDLE
         self.state = PetState.IDLE
         self.rest_reminder = RestReminderState.ENABLED
-
+        self.is_rest_reminder_actove = False
+        
+        
         self.is_active = True
         self.init_system_tray()
 
